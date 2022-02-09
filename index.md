@@ -4,6 +4,10 @@
 
 ### Clone repository to local machine
 
+1. Create project folder
+2. Point to project folder in the command line
+3. Clone the repository...
+
 ```markdown
 git clone [ SSH url ]
 
