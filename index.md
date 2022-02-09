@@ -1,4 +1,4 @@
-### Coding Workout
+# Coding Workout
 
 ## Git
 
