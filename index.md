@@ -6,7 +6,7 @@
 
 1. Create project folder
 2. Point to project folder in the command line
-3. Clone the repository...
+3. Clone the repository using the SSH url
 
 ```markdown
 git clone [ SSH url ]
