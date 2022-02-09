@@ -9,6 +9,7 @@
 3. Clone the repository using the SSH url
 
 ```markdown
+
 git clone [ SSH url ]
 
 ```
@@ -16,6 +17,7 @@ git clone [ SSH url ]
 ### Create new branch
 
 ```markdown
+
 git checkout-b [branch name]
 
 ```
@@ -23,6 +25,7 @@ git checkout-b [branch name]
 Create a new repository on the command line
 
 ```markdown
+
 git init
 git add README.md
 git commit -m "first commit"
@@ -35,6 +38,7 @@ git push -u origin main
 …or push an existing repository from the command line
 
 ```markdown
+
 git remote add origin git@github.com:StevensMark/Coding-Helper.git
 git branch -M main
 git push -u origin main
