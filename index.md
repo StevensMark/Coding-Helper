@@ -2,10 +2,17 @@
 
 ## Git
 
-### Cloning a repository to local machine using SSH
+### Clone repository to local machine
 
 ```markdown
 git clone [ SSH url ]
+
+```
+
+### Create new branch
+
+```markdown
+git checkout-b [branch name]
 
 ```
 
