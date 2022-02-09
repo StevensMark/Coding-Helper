@@ -1,4 +1,5 @@
 # Coding Workout
+Practice these coding skills daily until they become part of working memory.
 
 ## Git
 
