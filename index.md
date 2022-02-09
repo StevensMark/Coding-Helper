@@ -19,6 +19,33 @@ git clone [ SSH url ]
 git checkout-b [branch name]
 ```
 
+### Open VS Code
+
+```markdown
+code .
+```
+
+Build project and/or make revisions
+
+### Stage the revisions
+
+```markdown
+git add .
+```
+
+### Commit the new code or code revisions
+Include a short, clear message describing the new code or code revisions
+
+```markdown
+git commit -m "[message]"
+```
+ ### Push the branch to the repository
+ 
+ ```markdown
+git push --set-upstream origin [branch name]"
+```
+
+<!--- Comments
 Create a new repository on the command line
 
 ```markdown
@@ -37,6 +64,7 @@ git remote add origin git@github.com:[GitHub account]/[Repo name].git
 git branch -M main
 git push -u origin main
 ```
+-->
 
 <!--- Comments
 
