@@ -25,15 +25,15 @@ git checkout-b [branch name]
 code .
 ```
 
-Build project and/or make revisions
+Build project and/or edit code
 
-### Stage the revisions
+### Stage the new code
 
 ```markdown
 git add .
 ```
 
-### Commit the new code or code revisions
+### Commit the new code
 Include a short, clear message describing the new code or code revisions
 
 ```markdown
@@ -42,7 +42,7 @@ git commit -m "[message]"
  ### Push the branch to the repository
  
  ```markdown
-git push --set-upstream origin [branch name]"
+git push --set-upstream origin [branch name]
 ```
 
 <!--- Comments
