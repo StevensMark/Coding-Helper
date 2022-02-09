@@ -4,24 +4,6 @@
 
 ### Cloning a repository using SSH
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 Create a new repository on the command line
 
 ```markdown
@@ -40,6 +22,23 @@ git push -u origin main
 git remote add origin git@github.com:StevensMark/Coding-Helper.git
 git branch -M main
 git push -u origin main
+
+```
+
+```markdown
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 ```
 
 
