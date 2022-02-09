@@ -2,7 +2,12 @@
 
 ## Git
 
-### Cloning a repository using SSH
+### Cloning a repository to local machine using SSH
+
+```markdown
+git clone [ SSH url ]
+
+```
 
 Create a new repository on the command line
 
