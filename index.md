@@ -42,6 +42,29 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+Create a new repository on the command line
+
+```markdown
+
+echo "# Coding-Helper" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:StevensMark/Coding-Helper.git
+git push -u origin main
+
+```
+
+…or push an existing repository from the command line
+
+```markdown
+git remote add origin git@github.com:StevensMark/Coding-Helper.git
+git branch -M main
+git push -u origin main
+```
+
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
