@@ -2,6 +2,7 @@
 Practice these coding skills daily until they become part of working memory.
 
 ## Steps for using Git in a sotware dev group project
+*****
 
 ### Clone repository to local machine
 
