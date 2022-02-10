@@ -42,7 +42,7 @@ Include a short, clear message describing the new code or code revisions
 ```markdown
 git commit -m "[message]"
 ```
-# Push the branch to the repository
+### Push the branch to the repository
  
  ```markdown
 git push --set-upstream origin [branch name]
