@@ -48,10 +48,13 @@ git commit -m "[message]"
 git push --set-upstream origin [branch name]
 ```
 
-# npm ERR! code ERESOLVE
-ERESOLVE unable to resolve dependency tree
+# Resolve common errors
 
 *****
+
+## npm ERR! code ERESOLVE
+ERESOLVE unable to resolve dependency tree
+
 
 ```markdown
 npm config set legacy-peer-deps true
