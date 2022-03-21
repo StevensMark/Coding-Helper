@@ -57,6 +57,8 @@ ERESOLVE unable to resolve dependency tree
 npm config set legacy-peer-deps true
 ```
 
+source: https://www.youtube.com/watch?v=vn97BdYx2K8
+
 <!--- Comments
 Create a new repository on the command line
 
