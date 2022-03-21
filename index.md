@@ -48,7 +48,7 @@ git commit -m "[message]"
 git push --set-upstream origin [branch name]
 ```
 
-# Resolve common errors
+# Resolve Common Errors
 
 *****
 
