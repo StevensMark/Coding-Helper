@@ -47,7 +47,7 @@ git commit -m "[message]"
 ```markdown
 git push --set-upstream origin [branch name]
 ```
-
+<br>
 
 # Resolve Common Errors
 
