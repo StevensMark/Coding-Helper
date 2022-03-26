@@ -31,6 +31,21 @@ C:\Users\StephenMBassett\Dev/my-new-project -> npx gatsby new my-homepage https:
 
 
 ### Push changes to bitbucket
+Point to repo directory
+
+Add all changes to git
+```markdown
+C:\Users\StephenMBassett\Dev/my-new-project -> git add .
+```
+
+Commit changes to git
+```markdown
+C:\Users\StephenMBassett\Dev/my-new-project -> git commit -m 'first commit'
+```
+
+Push changes to git
+```markdown
+C:\Users\StephenMBassett\Dev/my-new-project -> git push```
 
 
 
