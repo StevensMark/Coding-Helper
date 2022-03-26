@@ -16,6 +16,12 @@ Practice these coding skills daily until they become part of working memory.
 
 
 ### Clone repository to local machine
+On local machine, point to the directory where you want the Bitbucket repo cloned. In this example, it will be inserted in the Dev folder.
+
+```markdown
+C:\Users\StephenMBassett\Dev -> git clone git@bitbucket.org:stephenmbassett/my-new-project.git
+```
+
 
 
 
