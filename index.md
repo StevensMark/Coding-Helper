@@ -3,6 +3,26 @@ Practice these coding skills daily until they become part of working memory.
 
 *****
 
+## Build new project using Bitbucket
+
+1. Create new repository in Bitbucket
+2. Clone repository to local machine
+3. Push changes to Bitbucket
+
+### Create new repository in Bitbucket
+
+[![chrome-KSo-Ply-Bh95.png](https://i.postimg.cc/G2hVJSqq/chrome-KSo-Ply-Bh95.png)](https://postimg.cc/SX3gmV0M)
+
+
+
+### Clone repository to local machine
+
+
+
+### Push changes to bitbucket
+
+
+
 ## Steps for using Git in a sotware dev group project
 
 
