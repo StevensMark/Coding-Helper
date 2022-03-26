@@ -30,7 +30,7 @@ C:\Users\StephenMBassett\Dev/my-new-project -> npx gatsby new my-homepage https:
 ```
 
 
-### Push changes to bitbucket
+### Push changes to Bitbucket
 Point to repo directory
 
 Add all changes to git
@@ -45,8 +45,8 @@ C:\Users\StephenMBassett\Dev/my-new-project -> git commit -m 'first commit'
 
 Push changes to git
 ```markdown
-C:\Users\StephenMBassett\Dev/my-new-project -> git push```
-
+C:\Users\StephenMBassett\Dev/my-new-project -> git push
+```
 
 
 ## Steps for using Git in a sotware dev group project
