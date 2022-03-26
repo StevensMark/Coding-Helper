@@ -7,12 +7,12 @@ Practice these coding skills daily until they become part of working memory.
 
 1. Create new repository in Bitbucket
 2. Clone repository to local machine
-3. Push changes to Bitbucket
+3. Build project; i.e. Gatsby, Angular, etc
+4. Push changes to Bitbucket
 
 ### Create new repository in Bitbucket
 
 [![chrome-KSo-Ply-Bh95.png](https://i.postimg.cc/G2hVJSqq/chrome-KSo-Ply-Bh95.png)](https://postimg.cc/SX3gmV0M)
-
 
 
 ### Clone repository to local machine
@@ -22,7 +22,12 @@ On local machine, point to the directory where you want the Bitbucket repo clone
 C:\Users\StephenMBassett\Dev -> git clone git@bitbucket.org:stephenmbassett/my-new-project.git
 ```
 
+### Build project
+Example: Building a Gatsby starter landing page. Build within my-new-project folder.
 
+```markdown
+C:\Users\StephenMBassett\Dev/my-new-project -> npx gatsby new my-homepage https://github.com/gatsbyjs/gatsby-starter-contentful-homepage
+```
 
 
 ### Push changes to bitbucket
