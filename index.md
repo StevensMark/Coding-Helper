@@ -1,9 +1,8 @@
-# Coding Workout
 Practice these coding skills daily until they become part of working memory.
 
 *****
 
-## Build new project using Bitbucket
+# Build new project using Bitbucket
 
 1. Create new repository in Bitbucket
 2. Clone repository to local machine
@@ -49,7 +48,7 @@ C:\Users\StephenMBassett\Dev/my-new-project -> git push
 ```
 
 
-## Steps for using Git in a sotware dev group project
+# Steps for using Git in a sotware dev group project
 
 
 ### Clone repository to local machine
