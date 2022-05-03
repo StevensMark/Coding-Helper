@@ -87,6 +87,19 @@ Include a short, clear message describing the new code or code revisions
 ```markdown
 git commit -m "[message]"
 ```
+Best practice when commiting multiple code changes is to combine those commits into
+a single commit, before pushing to the repository. For example, if you made 4 commits,
+then...
+
+```markdown
+git reset --soft HEAD~4
+git status
+git commit -m "styling ideas"
+got log master.. --oneline
+git push --set-upstream <name-of-branch>
+git push -f
+```
+
 ### Push the branch to the repository
  
 ```markdown
