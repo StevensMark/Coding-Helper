@@ -64,7 +64,7 @@ git clone [ SSH url ]
 ### Create new branch
 
 ```markdown
-git checkout-b [branch name]
+git checkout -b [branch name]
 ```
 
 ### Open VS Code
