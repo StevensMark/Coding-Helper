@@ -95,7 +95,7 @@ then...
 git reset --soft HEAD~4
 git status
 git commit -m "styling ideas"
-got log master.. --oneline
+git log master.. --oneline
 git push --set-upstream <name-of-branch>
 git push -f
 ```
