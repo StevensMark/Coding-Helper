@@ -4,7 +4,7 @@ Practice these coding skills daily until they become part of working memory.
 1. [Build new project using Bitbucket](#bitbucket)
 2. [Steps for using Git in a software dev group project](#git)
     1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+3. [Resolve common errors](#errors)
 
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
@@ -125,7 +125,7 @@ git push --set-upstream origin [branch name]
 ```
 <br>
 
-# Resolve Common Errors
+# Resolve Common Errors <a name="errors"></a>
 
 *****
 
