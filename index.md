@@ -163,8 +163,9 @@ git push -u origin main
 -->
 
 # Angular
+*****
 
-###Cmd to check Angular version
+### Cmd to check Angular version
 ```markdown
 ng version
 ```
