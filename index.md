@@ -7,7 +7,7 @@ Practice these coding skills daily until they become part of working memory.
 * [Angular](#angular)
 
 <details>
-<summary> Refreshers </summary>
+<summary #bitbucket> Refreshers </summary>
 <ul>
   <li> Algorithmics </li>
   <li> Basic tools </li>
