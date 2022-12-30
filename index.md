@@ -180,5 +180,11 @@ ng version
 ng new "name-of-project"
 ```
 
+### Cloning an Angular repo
+Remember to install packages!
+
+```markdown
+npm install
+```
 
 
