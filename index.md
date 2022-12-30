@@ -3,8 +3,8 @@ Practice these coding skills daily until they become part of working memory.
 # Contents
 1. [Build new project using Bitbucket](#bitbucket)
 2. [Steps for using Git in a software dev group project](#git)
-    1. [Sub paragraph](#subparagraph1)
 3. [Resolve common errors](#errors)
+4. [Angular](#angular)
 
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
@@ -180,7 +180,7 @@ git push -u origin main
 
 -->
 
-# Angular
+# Angular <a name="angular"></a>
 *****
 
 ### Install Angular to your system
