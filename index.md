@@ -1,7 +1,7 @@
 Practice these coding skills daily until they become part of working memory.
 
 # Contents
-1. [Introduction](#introduction)
+1. [Build new project using Bitbucket](#bitbucket)
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
@@ -20,7 +20,7 @@ The second paragraph text
 
 *****
 
-# Build new project using Bitbucket
+# Build new project using Bitbucket <a name="bitbucket"></a>
 
 1. Create new repository in Bitbucket
 2. Clone repository to local machine
