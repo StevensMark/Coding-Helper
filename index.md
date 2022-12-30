@@ -6,22 +6,6 @@ Practice these coding skills daily until they become part of working memory.
 * [Resolve common errors](#errors)
 * [Angular](#angular)
 
-<details>
-<summary> Refreshers </summary> (#bitbucket)
-<ul>
-  <li> Algorithmics </li>
-  <li> Basic tools </li>
-</ul>
-</details>
-
-<details>
-  <summary> Semester 1 </summary>
-  <ul>
-    <li> Data Visualization </li>
-    <li> Ethics </li>
-  </ul>
-</details>
-
 *****
 
 # Build new project using Bitbucket <a name="bitbucket"></a>
