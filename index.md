@@ -6,6 +6,25 @@ Practice these coding skills daily until they become part of working memory.
 * [Resolve common errors](#errors)
 * [Angular](#angular)
 
+<details>
+<summary> Year 1 (2021 - 2022) </summary> 
+  <details>
+  <summary> Refreshers </summary>
+  <ul>
+    <li> Algorithmics </li>
+    <li> Basic tools </li>
+  </ul>
+  </details>
+
+  <details>
+  <summary> Semester 1 </summary>
+  <ul>
+    <li> Data Visualization </li>
+    <li> Ethics </li>
+  </ul>
+  </details>
+</details>
+
 *****
 
 # Build new project using Bitbucket <a name="bitbucket"></a>
@@ -192,24 +211,5 @@ Remember to install packages!
 ```markdown
 npm install
 ```
-
-<details>
-<summary> Year 1 (2021 - 2022) <summary> 
-  <details>
-  <summary> Refreshers </summary>
-  <ul>
-    <li> Algorithmics </li>
-    <li> Basic tools </li>
-  </ul>
-  </details>
-
-  <details>
-  <summary> Semester 1 </summary>
-  <ul>
-    <li> Data Visualization </li>
-    <li> Ethics </li>
-  </ul>
-  </details>
-</details>
 
 
