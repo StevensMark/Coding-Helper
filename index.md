@@ -48,7 +48,7 @@ C:\Users\StephenMBassett\Dev/my-new-project -> git push
 ```
 
 
-# Steps for using Git in a sotware dev group project
+# Steps for using Git in a software dev group project
 
 
 ### Clone repository to local machine
