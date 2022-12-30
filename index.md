@@ -2,7 +2,7 @@ Practice these coding skills daily until they become part of working memory.
 
 # Contents
 1. [Build new project using Bitbucket](#bitbucket)
-2. [Some paragraph](#paragraph1)
+2. [Steps for using Git in a software dev group project](#git)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
@@ -66,7 +66,7 @@ C:\Users\StephenMBassett\Dev/my-new-project -> git push
 ```
 
 
-# Steps for using Git in a software dev group project
+# Steps for using Git in a software dev group project <a name="git"></a>
 
 
 ### Clone repository to local machine
