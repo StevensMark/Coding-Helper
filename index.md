@@ -165,9 +165,19 @@ git push -u origin main
 # Angular
 *****
 
+### Install Angular to your system
+```markdown
+npm install -g @angular/cli
+```
+
 ### Cmd to check Angular version
 ```markdown
 ng version
+```
+
+### Creating new Angular project
+```markdown
+ng new "name-of-project"
 ```
 
 
