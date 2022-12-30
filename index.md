@@ -1,10 +1,10 @@
 Practice these coding skills daily until they become part of working memory.
 
 # Contents
-[Build new project using Bitbucket](#bitbucket)
-[Steps for using Git in a software dev group project](#git)
-[Resolve common errors](#errors)
-[Angular](#angular)
+*[Build new project using Bitbucket](#bitbucket)
+*[Steps for using Git in a software dev group project](#git)
+*[Resolve common errors](#errors)
+*[Angular](#angular)
 
 *****
 
