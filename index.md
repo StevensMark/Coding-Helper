@@ -200,7 +200,6 @@ npm install
 @Input('title') title: string | undefined;     Solution
 ```
 
-source:
-https://monsterlessons-academy.com/posts/angular-property-has-no-initializer-and-is-not-definitely-assigned-in-the-constructor
+[Resource link](https://monsterlessons-academy.com/posts/angular-property-has-no-initializer-and-is-not-definitely-assigned-in-the-constructor)
 
 
