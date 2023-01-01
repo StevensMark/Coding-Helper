@@ -191,7 +191,7 @@ Remember to install packages!
 ```markdown
 npm install
 ```
-## ERROR: Property has no initializer and is not definitely assigned in the constructor
+### ERROR: Property has no initializer and is not definitely assigned in the constructor
 
 ```markdown
 @Input('title') title: string;                 Typescript can throw error
