@@ -124,8 +124,7 @@ ERESOLVE unable to resolve dependency tree
 ```markdown
 npm config set legacy-peer-deps true
 ```
-
-source: https://www.youtube.com/watch?v=vn97BdYx2K8
+<a href="https://www.youtube.com/watch?v=vn97BdYx2K8" target="_blank">Resource link</a>
 
 <!--- Comments
 Create a new repository on the command line
@@ -199,9 +198,6 @@ npm install
 
 @Input('title') title: string | undefined;     Solution
 ```
-
-[Resource link](https://monsterlessons-academy.com/posts/angular-property-has-no-initializer-and-is-not-definitely-assigned-in-the-constructor)
-
 <a href="https://monsterlessons-academy.com/posts/angular-property-has-no-initializer-and-is-not-definitely-assigned-in-the-constructor" target="_blank">Resource link</a>
 
 
