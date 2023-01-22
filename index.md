@@ -5,6 +5,7 @@ Practice these coding skills daily until they become part of working memory.
 * [Steps for using Git in a software dev group project](#git)
 * [Resolve common errors](#errors)
 * [Angular](#angular)
+* [Flask](*flask)
 
 *****
 
@@ -199,5 +200,18 @@ npm install
 @Input('title') title: string | undefined;     Solution
 ```
 <a href="https://monsterlessons-academy.com/posts/angular-property-has-no-initializer-and-is-not-definitely-assigned-in-the-constructor" target="_blank">Resource link</a>
+
+# Flask <a name="flask"></a>
+*****
+
+### Virtual environment
+Create (use the Command Prompt, not Powershell)
+```markdown
+python -m venv venv
+```
+Activate
+```markdown
+.\venv\Scripts\activate
+```
 
 
