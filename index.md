@@ -9,7 +9,7 @@ Practice these coding skills daily until they become part of working memory.
 
 *****
 
-# Build new project using Bitbucket <a name="github"></a>
+# Build new project using GitHub <a name="github"></a>
 
 1. Create new repository in GitHub
 2. Clone repository to local machine
