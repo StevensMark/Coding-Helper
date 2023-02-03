@@ -1,7 +1,7 @@
 Practice these coding skills daily until they become part of working memory.
 
 # Contents
-* [Build new project using Bitbucket](#bitbucket)
+* [Build new project using GitHub](#github)
 * [Steps for using Git in a software dev group project](#git)
 * [Resolve common errors](#errors)
 * [Angular](#angular)
@@ -9,14 +9,14 @@ Practice these coding skills daily until they become part of working memory.
 
 *****
 
-# Build new project using Bitbucket <a name="bitbucket"></a>
+# Build new project using Bitbucket <a name="github"></a>
 
-1. Create new repository in Bitbucket
+1. Create new repository in GitHub
 2. Clone repository to local machine
 3. Build project; i.e. Gatsby, Angular, etc
-4. Push changes to Bitbucket
+4. Push changes to GitHub
 
-### Create new repository in Bitbucket
+### Create new repository in GitHub
 
 [![chrome-KSo-Ply-Bh95.png](https://i.postimg.cc/G2hVJSqq/chrome-KSo-Ply-Bh95.png)](https://postimg.cc/SX3gmV0M)
 
