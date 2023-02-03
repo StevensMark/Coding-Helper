@@ -18,6 +18,8 @@ Practice these coding skills daily until they become part of working memory.
 
 ### Create new repository in GitHub
 
+[![chrome-t-IIsw-Rz-Ms-L.png](https://i.postimg.cc/VsxXXGCH/chrome-t-IIsw-Rz-Ms-L.png)](https://postimg.cc/mhScsSVQ)
+
 [![chrome-KSo-Ply-Bh95.png](https://i.postimg.cc/G2hVJSqq/chrome-KSo-Ply-Bh95.png)](https://postimg.cc/SX3gmV0M)
 
 
