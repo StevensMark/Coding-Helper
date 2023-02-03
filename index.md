@@ -27,36 +27,28 @@ Practice these coding skills daily until they become part of working memory.
 
 
 ### Clone repository to local machine
-On local machine, point to the directory where you want the Bitbucket repo cloned. In this example, it will be inserted in the Dev folder.
+On local machine, point to the directory where you want the GitHub repo cloned. In this example, it will be inserted in the Dev folder.
 
 ```markdown
-C:\Users\StephenMBassett\Dev -> git clone git@bitbucket.org:stephenmbassett/my-new-project.git
+C:\Users\StevensMark\Dev> git clone git@github.com:StevensMark/company_website.git
 ```
 
-### Build project
-Example: Building a Gatsby starter landing page. Build within my-new-project folder.
-
-```markdown
-C:\Users\StephenMBassett\Dev/my-new-project -> npx gatsby new my-homepage https://github.com/gatsbyjs/gatsby-starter-contentful-homepage
-```
-
-
-### Push changes to Bitbucket
+### Push changes to GitHub
 Point to repo directory
 
 Add all changes to git
 ```markdown
-C:\Users\StephenMBassett\Dev/my-new-project -> git add .
+C:\Users\StevensMark\Dev> git add .
 ```
 
 Commit changes to git
 ```markdown
-C:\Users\StephenMBassett\Dev/my-new-project -> git commit -m 'first commit'
+C:\Users\StevensMark\Dev> git commit -m 'first commit'
 ```
 
 Push changes to git
 ```markdown
-C:\Users\StephenMBassett\Dev/my-new-project -> git push
+C:\Users\StevensMark\Dev> git push
 ```
 
 
