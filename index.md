@@ -112,6 +112,14 @@ git push -f
 ```markdown
 git push --set-upstream origin [branch name]
 ```
+
+### Merge from MAIN to BRANCH
+When changes were made to MAIN that you want to import into your BRANCH:
+1. From your BRANCH in the command prompt
+2. Assuming your MAIN has the name "main" 
+3. ``` git merge main ```
+
+
 <br>
 
 # Resolve Common Errors <a name="errors"></a>
