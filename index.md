@@ -20,7 +20,10 @@ Practice these coding skills daily until they become part of working memory.
 
 [![chrome-t-IIsw-Rz-Ms-L.png](https://i.postimg.cc/VsxXXGCH/chrome-t-IIsw-Rz-Ms-L.png)](https://postimg.cc/mhScsSVQ)
 
-[![chrome-KSo-Ply-Bh95.png](https://i.postimg.cc/G2hVJSqq/chrome-KSo-Ply-Bh95.png)](https://postimg.cc/SX3gmV0M)
+
+### Capture the repository url
+
+[![chrome-tibt2-Ns-Zuh.png](https://i.postimg.cc/qBh8hVz3/chrome-tibt2-Ns-Zuh.png)](https://postimg.cc/HjmJRN0Y)
 
 
 ### Clone repository to local machine
