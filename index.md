@@ -220,5 +220,9 @@ Activate
 ```markdown
 .\venv\Scripts\activate
 ```
+Deactivate
+```markdown
+deactivate
+```
 
 
