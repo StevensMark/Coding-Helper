@@ -234,12 +234,16 @@ Flask
   2. Start the Debugger
   3. Open another command prompt with virtual environment activated
   4. Enter the following commands:
-       a. set FLASK_APP=src/run.py
-       b. flask db upgrade
+```markdown
+set FLASK_APP=src/run.py
+flask db upgrade
+```
        
 Angular
   1. Open CLIENT in VS Code
   2. Enter the following command:
-       a. ng serve
+```markdown
+ng serve
+```
 
 
