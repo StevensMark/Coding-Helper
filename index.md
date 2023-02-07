@@ -225,4 +225,21 @@ Deactivate
 deactivate
 ```
 
+# Run Angular+Flask+PostgreSQL App Locally
+PostgreSQL
+  1. Start the server
+
+Flask
+  1. Open API (Flask) in VS Code
+  2. Start the Debugger
+  3. Open another command prompt with virtual environment activated
+  4. Enter the following commands:
+       a. set FLASK_APP=src/run.py
+       b. flask db upgrade
+       
+Angular
+  1. Open CLIENT in VS Code
+  2. Enter the following command:
+       a. ng serve
+
 
