@@ -134,6 +134,17 @@ npm config set legacy-peer-deps true
 ```
 <a href="https://www.youtube.com/watch?v=vn97BdYx2K8" target="_blank">Resource link</a>
 
+## EADDRINUSE: address already in use :::3000
+Need to identify and kill processes running on port 3000
+
+```markdown
+netstat -ano | findstr :3000
+```
+As an example, if it determines that a process is running on port 3023, then...
+```markdown
+taskkill /F /PID 3024
+```
+
 <!--- Comments
 Create a new repository on the command line
 
